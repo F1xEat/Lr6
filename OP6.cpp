@@ -23,5 +23,4 @@ int main()
 		return 0;
 	}
 }
-cout << "Github";
-// Git hub 
+// Репозиторій Git 
